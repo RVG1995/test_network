@@ -14,8 +14,8 @@ formatter = logging.Formatter(
 )
 handler.setFormatter(formatter)
 
-update = Updater(token='5450494333:AAHjTkjV8sbWD745_XbmhUUhYucHAHvrQmw')
-TELEGRAM_CHAT_ID = 513423384
+update = Updater(token=)
+TELEGRAM_CHAT_ID = 
 
 result = {"pk": 1412, "model": "Users",
           "fields": {"ip": "10.0.0.77", "mac": "64:64:4A:75:9C:D3", "id": 1412, "gen_pwd": "alfa1234"}}
